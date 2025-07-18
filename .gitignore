@@ -1,0 +1,8 @@
+# iOS build files
+DerivedData/
+*.xcworkspace
+*.xcuserdata
+*.DS_Store
+
+# Secrets
+EphemeralRadio/Secrets.plist
