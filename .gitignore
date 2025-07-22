@@ -5,4 +5,4 @@ DerivedData/
 *.DS_Store
 
 # Secrets
-EphemeralRadio/Secrets.plist
+EphemeralRadio/EphemeralRadio/Secrets.plist
